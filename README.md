@@ -16,3 +16,6 @@ python3 rasomware.py
 python decrypt.py 
 ```
 
+more malware 
+
+[Click here](https://github.com/PatrikH0lop/malware_showcase)
